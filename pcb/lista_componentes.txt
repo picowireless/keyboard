@@ -1,0 +1,17 @@
+Keyboard v1.1 @ 2019/03
+Keys: 108 | Size: 100%
+Author: PicoWireless.net
+
+Lista de componentes:
+R1, R2, R3, R4, R5  -> 4x 	Resistência 100R 1/4w
+R6, ... R29			-> 23x 	Resistência 470R 1/4w
+Led1, Led2, Led3 	-> 3x 	Led Amarelo 3mm
+Led4 				-> 1x 	Led Verde 3mm
+Led5				-> 5x 	Led Branco 3mm
+U1, U2				-> 2x	Chante (jumper) 2 pinos
+D91 a D198			-> 108x Diodo 1N4148
+S1 a S108			-> 108x Cherry MX Switch
+Estabilizadores		-> 5x 	Estabilizadores 2 
+Estabilizadores Spc -> 1x 	Estabilizador   6.25
+T1					-> 1x 	Controloador Teensy ++2 + Cabo Mini USB Macho to USB A Macho
+Hub					-> 1x 	Hub Usb 1x Usb Micro Fêmea (to PC) & 4 portas Usb A Fêmea

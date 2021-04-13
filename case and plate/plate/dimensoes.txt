@@ -1,0 +1,1 @@
+Width: 428.627mm,  Height: 123.827mm,  Surface Area: 29733.801mm2,  Cut Path Length: 8298.542mm
