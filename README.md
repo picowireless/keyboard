@@ -1,6 +1,6 @@
 # PicoWireless.net Keyboard
 
-Keyboard with 108 keys v1.0
+Keyboard with 106 keys v1.0
 
 Size: 100%
 
