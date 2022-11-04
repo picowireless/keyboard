@@ -1,15 +1,15 @@
 # PicoWireless.net Keyboard
 
-Keyboard with 106 keys v1.0
+Keyboard with 106 keys v1.2
 
 Size: 100%
 
 Controller: AT90USB1286
 
-Last Update: 2019/05
+Last Update: 2022/11
 
 
-PicoWireless.net (c) 2021
+PicoWireless.net (c) 2022
 
 website:
 
